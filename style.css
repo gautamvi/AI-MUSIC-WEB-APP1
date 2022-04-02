@@ -1,0 +1,18 @@
+body{
+    background-size: cover;
+}
+
+canvas{
+    box-shadow: rgb(194, 119, 255);
+    border: darkorchid;
+    border: 5px solid rgb(244, 215, 255);
+}
+
+.heading{
+    font-size: 22px;
+    width: 100%;
+}
+
+#song_name{
+    font-size: 21px;
+}
